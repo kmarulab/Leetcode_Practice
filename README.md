@@ -1,1 +1,1 @@
-# Leetcode_Practoce
+# Leetcode_Practice
